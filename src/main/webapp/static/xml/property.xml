@@ -1,0 +1,24 @@
+<?xml version="1.0"?>  
+
+<root>
+	
+	<!--mongodb数据库本地配置 -->
+	
+	<mongodbUrl>10.13.0.100</mongodbUrl>
+	
+	<!-- 操作的数据库 -->
+	
+	<dataBase>admin</dataBase>
+	
+	<!--集合名称 -->
+	
+	<collectionName>CollectionLog</collectionName>
+	
+	<!-- 端口值 -->
+	<port>27017</port>
+	
+	
+	<!-- 服务器本地存放目录 -->
+	<localExcelPath>D:\\Excels</localExcelPath>
+
+</root>
